@@ -1,3 +1,4 @@
+//this code is given by piyush sharma
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
